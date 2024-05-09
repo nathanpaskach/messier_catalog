@@ -93,8 +93,9 @@ var data = {
 		},
 		{
 			"title":"16",
-			"content":"",
+			"content":"M16 - The Eagle Nebula\n7-9-2023\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Orion AstroView EQ90\nDenoise: Topaz",
 			"images":[
+				"images/M16.png"
 			]
 		},
 		{
@@ -183,8 +184,9 @@ var data = {
 		},
 		{
 			"title":"31",
-			"content":"",
+			"content":"M31 - The Andromeda Galaxy\n9-6-2023\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Canon EFS 55-250mm\nDenoise: Nero",
 			"images":[
+				"images/M31.jpg"
 			]
 		},
 		{
@@ -249,8 +251,9 @@ var data = {
 		},
 		{
 			"title":"42",
-			"content":"",
+			"content":"M42 - The Orion Nebula\n2-11-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: 300mm Lens\n",
 			"images":[
+				"images/M42.jpg"
 			]
 		},
 		{
@@ -483,14 +486,16 @@ var data = {
 		},
 		{
 			"title":"81",
-			"content":"",
+			"content":"M81 - Bode's Galaxy\n7-12-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: Orion AstroView EQ90\n",
 			"images":[
+				"images/M81.jpg",
 			]
 		},
 		{
 			"title":"82",
-			"content":"",
+			"content":"M82 - The Cigar Galaxy\n7-12-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: Orion AstroView EQ90\n",
 			"images":[
+				"images/M82.jpg"
 			]
 		},
 		{
@@ -603,9 +608,9 @@ var data = {
 		},
 		{
 			"title":"101",
-			"content":"M101 - The Pinwheel Galaxy\n5-4-2024\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Apertura RC 6\" f/9\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
+			"content":"M101 - The Pinwheel Galaxy\n5-4-2024\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Apertura RC 6\" f/9\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\nDenoise: Topaz",
 			"images":[
-				"images/M101.jpg"
+				"images/M101-smooth.png"
 			]
 		},
 		{

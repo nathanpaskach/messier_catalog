@@ -242,19 +242,21 @@ function displayList(list, index)
 			h.style.fontSize = cardHeight * 0.1 + 'px';
 			h.textContent = list['title'];
 			h.style.padding = '20px';
+			h.style.margin = '0';
 			var b = c.children[0].cloneNode(true);
-			b.style.textAlign = "left";
-			b.style.width = "inherit";
 			b.innerHTML = list['content'];
+			b.style.textAlign = 'left';
+			b.style.position = 'relative'
+			b.style.left = '40px'
 			b.style.fontSize = cardHeight * 0.05 + 'px';
-			b.style.padding = '20px';
-			b.style.marginTop = '20px';
-			b.style.marginLeft = '20px';
+			b.style.padding = '20px 40px 20px 0px';
+			b.style.margin = '20px 0px 0px 0px';
+			b.style.width = 'calc(100% - 60px)'
 			b.style.overflowY = 'auto';
 			c.innerHTML = "";
 			c.appendChild(h);
 			c.appendChild(b);
-			c.style.backgroundColor = '#aaccff';
+			c.style.backgroundColor = '#002255';
 			c.style.overflow = "hidden";
 		}
 		else // We're dealing with the image gallery
