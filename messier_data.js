@@ -306,8 +306,9 @@ var data = {
 		},
 		{
 			"title":"51",
-			"content":"",
+			"content":"M51 - The Whirlpool Galaxy\n5-17-2024\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Apertura RC 6\" f/9\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\nDenoise: AstroDenoisePy",
 			"images":[
+				"images/M51.jpg"
 			]
 		},
 		{
