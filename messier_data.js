@@ -585,8 +585,9 @@ var data = {
 		},
 		{
 			"title":"97",
-			"content":"",
+			"content":"M97 - The Owl Nebula\n5-24-2024\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Apertura RC 6\" f/9\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\nDenoise: AstroDenoisePy",
 			"images":[
+				"images/M97.jpg"
 			]
 		},
 		{
