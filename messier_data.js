@@ -197,8 +197,9 @@ var data = {
 		},
 		{
 			"title":"33",
-			"content":"",
+			"content":"M33 - The Triangulum Galaxy\n12-7-2024\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Apertura RC 6\" f/9\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+                "images/M33.jpg"
 			]
 		},
 		{
