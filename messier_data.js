@@ -252,9 +252,10 @@ var data = {
 		},
 		{
 			"title":"42",
-			"content":"M42 - The Orion Nebula\n2-11-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: 300mm Lens\n",
+			"content":"M42 - The Orion Nebula\n1-8-2025\n\nMount: Sky-Watcher Star Adventurer GTi\nCamera: ZWO ASI533MC Pro\nOTA: WO RedCat51\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\n\n2-11-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: 300mm Lens\n",
 			"images":[
-				"images/M42.jpg"
+				"images/M42_1-8-2025.jpg",
+                "images/M42_2-11-2023.jpg"
 			]
 		},
 		{
