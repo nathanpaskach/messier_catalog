@@ -472,8 +472,9 @@ var data = {
 		},
 		{
 			"title":"78",
-			"content":"",
+			"content":"M78\n1-16-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M78_1-16-2025.jpg"
 			]
 		},
 		{
