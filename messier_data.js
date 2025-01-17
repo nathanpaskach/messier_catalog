@@ -3,8 +3,9 @@ var data = {
 	"content":[
 		{
 			"title":"1",
-			"content":"",
+			"content":"M1 - The Crab Nebula\n1-15-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M1_1-15-2025.jpg"
 			]
 		},
 		{
