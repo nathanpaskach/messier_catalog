@@ -261,8 +261,9 @@ var data = {
 		},
 		{
 			"title":"43",
-			"content":"",
+			"content":"M43 - De Mairan's Nebula\n1-19-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M43_1-19-2025.jpg"
 			]
 		},
 		{
