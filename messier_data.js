@@ -499,8 +499,9 @@ var data = {
 		},
 		{
 			"title":"82",
-			"content":"M82 - The Cigar Galaxy\n7-12-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: Orion AstroView EQ90\n",
+			"content":"M82 - The Cigar Galaxy\n1-26-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\n\n7-12-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: Orion AstroView EQ90\n",
 			"images":[
+				"images/M82_1-26-2025.jpg",
 				"images/M82.jpg"
 			]
 		},
