@@ -185,8 +185,9 @@ var data = {
 		},
 		{
 			"title":"31",
-			"content":"M31 - The Andromeda Galaxy\n9-6-2023\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Canon EFS 55-250mm\nDenoise: Nero",
+			"content":"M31 - The Andromeda Galaxy\n9-30-2024\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: ZWO RedCat51\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\n\n9-6-2023\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Canon EFS 55-250mm\nDenoise: Nero",
 			"images":[
+				"images/M31_9-30-2024.jpg",
 				"images/M31.jpg"
 			]
 		},
@@ -253,7 +254,7 @@ var data = {
 		},
 		{
 			"title":"42",
-			"content":"M42 - The Orion Nebula\n1-8-2025\n\nMount: Sky-Watcher Star Adventurer GTi\nCamera: ZWO ASI533MC Pro\nOTA: WO RedCat51\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\n\n2-11-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: 300mm Lens\n",
+			"content":"M42 - The Orion Nebula\n1-8-2025\n\nMount: Sky-Watcher Star Adventurer GTi\nCamera: ZWO ASI533MC Pro\nOTA: ZWO RedCat51\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\n\n2-11-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: 300mm Lens\n",
 			"images":[
 				"images/M42_1-8-2025.jpg",
                 "images/M42_2-11-2023.jpg"
@@ -492,9 +493,10 @@ var data = {
 		},
 		{
 			"title":"81",
-			"content":"M81 - Bode's Galaxy\n7-12-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: Orion AstroView EQ90\n",
+			"content":"M81 - Bode's Galaxy\n1-28-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\n\n7-12-2023\n\nMount: Orion AstroView EQ90\nCamera: Canon EOS Rebel T5i\nOTA: Orion AstroView EQ90\n",
 			"images":[
-				"images/M81.jpg",
+				"images/M81_1-28-2025.jpg",
+				"images/M81.jpg"
 			]
 		},
 		{
