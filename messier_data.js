@@ -587,14 +587,16 @@ var data = {
 		},
 		{
 			"title":"95",
-			"content":"",
+			"content":"M95\n4-21-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M95_4-21-2025.jpg"
 			]
 		},
 		{
 			"title":"96",
-			"content":"",
+			"content":"M96\n4-22-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M96_4-22-2025.jpg"
 			]
 		},
 		{
