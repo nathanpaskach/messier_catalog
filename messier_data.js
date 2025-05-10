@@ -269,8 +269,9 @@ var data = {
 		},
 		{
 			"title":"44",
-			"content":"",
+			"content":"M44 - The Beehive Cluster\n3-9-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M44_3-9-2025.jpg"
 			]
 		},
 		{
@@ -294,8 +295,9 @@ var data = {
 		},
 		{
 			"title":"48",
-			"content":"",
+			"content":"M48\n3-9-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M48_3-9-2025.jpg"
 			]
 		},
 		{
@@ -397,20 +399,23 @@ var data = {
 		},
 		{
 			"title":"65",
-			"content":"",
+			"content":"M65\n4-15-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M65_4-15-2025.jpg"
 			]
 		},
 		{
 			"title":"66",
-			"content":"",
+			"content":"M66\n4-15-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M66_4-15-2025.jpg"
 			]
 		},
 		{
 			"title":"67",
-			"content":"",
+			"content":"M67 - Golden Eye Cluster\n3-8-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M67_3-8-2025.jpg"
 			]
 		},
 		{
@@ -619,8 +624,9 @@ var data = {
 		},
 		{
 			"title":"101",
-			"content":"M101 - The Pinwheel Galaxy\n5-4-2024\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Apertura RC 6\" f/9\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\nDenoise: Topaz",
+			"content":"M101 - The Pinwheel Galaxy\n3-11-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\n\n5-4-2024\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: Canon EOS Rebel T5i\nOTA: Apertura RC 6\" f/9\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165\nDenoise: Topaz",
 			"images":[
+				"images/M101_3-11-2025.jpg",
 				"images/M101-smooth.png"
 			]
 		},
