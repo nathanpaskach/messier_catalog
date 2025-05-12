@@ -327,8 +327,9 @@ var data = {
 		},
 		{
 			"title":"53",
-			"content":"",
+			"content":"M53\n5-12-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M53_5-12-2025.jpg"
 			]
 		},
 		{
@@ -393,8 +394,9 @@ var data = {
 		},
 		{
 			"title":"64",
-			"content":"",
+			"content":"M65 - The Black Eye Galaxy\n5-11-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M64_5-11-2025.jpg"
 			]
 		},
 		{
