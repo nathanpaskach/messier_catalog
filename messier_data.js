@@ -276,8 +276,9 @@ var data = {
 		},
 		{
 			"title":"45",
-			"content":"",
+			"content":"M45 - Pleiades (Seven Sisters - Subaru)\n12-20-2025\n\nMount: Sky-Watcher Star Adventurer GTi\nCamera: ZWO ASI533MC Pro\nOTA: ZWO RedCat51\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/M45_12-20-2025.jpg"
 			]
 		},
 		{
